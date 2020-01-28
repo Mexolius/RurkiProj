@@ -7,6 +7,7 @@
 
 #include<functional>
 #include<tuple>
+#include<array>
 
 using function1D = std::function<float(float)>;
 using function2D = std::function<float(float, float)>;
